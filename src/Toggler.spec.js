@@ -34,6 +34,7 @@ describe('Toggler', () => {
 
     // ✅ so instead we create a test component around Toggler
     const TestToggler = () => {
+      // just a demo, not really used in this spec
       const [state, send] = useMachine(toggleMachine);
       return (<Toggler />)
     }
