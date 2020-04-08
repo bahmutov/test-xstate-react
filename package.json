@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "@xstate/react": "0.8.1",
+    "cypress-react-unit-test": "3.0.0-cypress-mount-mode.13",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
