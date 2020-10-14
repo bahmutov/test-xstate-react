@@ -8,7 +8,8 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "@xstate/react": "0.8.1",
-    "cypress-react-unit-test": "3.0.0-cypress-mount-mode.13",
+    "cypress": "5.3.0",
+    "cypress-react-unit-test": "4.16.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
@@ -17,8 +18,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "cypress-expect run --passing 3",
+    "eject": "react-scripts eject",
+    "update:badges": "update-badge cypress cypress-react-unit-test xstate"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cypress-expect": "2.1.2",
+    "dependency-version-badge": "1.5.0"
   }
 }
