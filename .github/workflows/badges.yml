@@ -8,7 +8,7 @@ on:
     paths:
       - README.md
       - package.json
-      - .github/workflows/budges.yml
+      - .github/workflows/badges.yml
 
 jobs:
   build:
