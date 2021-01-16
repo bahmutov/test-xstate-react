@@ -13,7 +13,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "xstate": "4.15.4"
+    "xstate": "4.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
