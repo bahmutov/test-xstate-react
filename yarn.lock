@@ -4348,10 +4348,10 @@ cyclist@^1.0.1:
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-1.0.1.tgz#596e9698fd0c80e12038c2b82d6eb1b35b6224d9"
   integrity sha1-WW6WmP0MgOEgOMK4LW6xs1tiJNk=
 
-cypress-expect@2.4.3:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/cypress-expect/-/cypress-expect-2.4.3.tgz#c98e8b81838105ac926d59fc91012cc694a0c1f8"
-  integrity sha512-ZwjQPYlKb71zBAhcf0TwGyA3CeHCiOb5FrzOY4Jw3WQxzQL5kQZ3am6rcgkAcA4sUbRU8V1sa9c1YrdX6RePMQ==
+cypress-expect@2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/cypress-expect/-/cypress-expect-2.5.0.tgz#56128742b77e9d89b2956c94771430b26926e972"
+  integrity sha512-RUUt/hcJ/fy7JJ+aYjSYwa448df0QeJ4DzYFeeeiqUzS9t4AbcJbWmXAPV9KSNBMkZU3NkT5okDzo+/CvrmFng==
   dependencies:
     "@bahmutov/all-paths" "1.0.2"
     arg "5.0.1"
