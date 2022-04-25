@@ -4348,14 +4348,14 @@ cyclist@^1.0.1:
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-1.0.1.tgz#596e9698fd0c80e12038c2b82d6eb1b35b6224d9"
   integrity sha1-WW6WmP0MgOEgOMK4LW6xs1tiJNk=
 
-cypress-expect@2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/cypress-expect/-/cypress-expect-2.5.1.tgz#3e5ef127949908fefa080ead1eafc6766c992f88"
-  integrity sha512-SaW9XOjNcnCxYsaxrUGNuj4IeuzL/qGZnMve9TMgEYKrZyVyXFXX8Xi+DI2dVd2yjY2dP7AY6zdxCuIIXGj7Qg==
+cypress-expect@2.5.2:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/cypress-expect/-/cypress-expect-2.5.2.tgz#60b8981fd2c69841dbcead84d78dae09706f8f49"
+  integrity sha512-zer0JAtSC5pTFbGE8L2uorW1FgwV0fhTWV3P42BfRkVjPB5+3z2uS9YLNqIWv+cMyAymozfMNE6OlV9KGUQeig==
   dependencies:
     "@bahmutov/all-paths" "1.0.2"
     arg "5.0.1"
-    debug "4.3.3"
+    debug "4.3.4"
     ramda "0.27.1"
 
 cypress-react-unit-test@4.17.2:
@@ -4481,10 +4481,10 @@ debug@4.3.1:
   dependencies:
     ms "2.1.2"
 
-debug@4.3.3:
-  version "4.3.3"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.3.tgz#04266e0b70a98d4462e6e288e38259213332b664"
-  integrity sha512-/zxw5+vh1Tfv+4Qn7a5nsbcJKPaSvCDhojn6FEl9vupwK2VCSDtEiEtqr8DFtzYFOdz63LBkxec7DYuc2jon6Q==
+debug@4.3.4:
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.4.tgz#1319f6579357f2338d3337d2cdd4914bb5dcc865"
+  integrity sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
   dependencies:
     ms "2.1.2"
 
